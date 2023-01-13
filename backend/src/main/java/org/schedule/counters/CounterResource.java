@@ -1,4 +1,4 @@
-package org.schedule;
+package org.schedule.counters;
 
 import javax.inject.Inject;
 import javax.ws.rs.GET;
